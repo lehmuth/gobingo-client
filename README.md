@@ -1,1 +1,1 @@
-# gobingo-client
+# GoBingo! - Client
